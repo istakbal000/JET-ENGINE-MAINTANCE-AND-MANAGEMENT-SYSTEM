@@ -3,6 +3,8 @@
 ## 📋 Project Overview
 
 Advanced AI-powered predictive maintenance system for jet engines using 7 different ML approaches combined with Google Gemini AI for intelligent maintenance recommendations.
+## Live Preview link
+**https://jet-engine-maintance-and-management-system-idjnvn9sposnxntgobw.streamlit.app/
 
 ## 🎯 Features
 
